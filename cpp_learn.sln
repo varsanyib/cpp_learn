@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "methods", "methods\methods.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "classes", "classes\classes.vcxproj", "{84753D61-46DB-445D-908F-CB390E0DCAB2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BasicInstaller", "BasicInstaller\BasicInstaller.vdproj", "{E1F7E960-738E-4111-BAC9-82E4F542B291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,10 @@ Global
 		{84753D61-46DB-445D-908F-CB390E0DCAB2}.Release|x64.Build.0 = Release|x64
 		{84753D61-46DB-445D-908F-CB390E0DCAB2}.Release|x86.ActiveCfg = Release|Win32
 		{84753D61-46DB-445D-908F-CB390E0DCAB2}.Release|x86.Build.0 = Release|Win32
+		{E1F7E960-738E-4111-BAC9-82E4F542B291}.Debug|x64.ActiveCfg = Debug
+		{E1F7E960-738E-4111-BAC9-82E4F542B291}.Debug|x86.ActiveCfg = Debug
+		{E1F7E960-738E-4111-BAC9-82E4F542B291}.Release|x64.ActiveCfg = Release
+		{E1F7E960-738E-4111-BAC9-82E4F542B291}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
